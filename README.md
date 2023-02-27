@@ -1,3 +1,9 @@
 # Julian_portfolio
 [Capstone project](https://julianshalash.github.io/Julian_portfolio/)
-![](https://github.com/Julianshalash/Julian_portfolio/commit/9973b67d5f90e01e556e9196ea671a6065c37b00#diff-67fbf5e8f47fd4d012eae80fd62e8234acd22637f7399fe0e779d48fb9519c8b)
+EXECUTIVE SUMMARY:
+The company name is AS
+The company job is about IT solution 
+Its target is stay in the competition among other companies by analyzing data to help identify future skill requirements
+It would to improve the programming languages and database choices 
+Its experience is about 8 years in IT solution
+
