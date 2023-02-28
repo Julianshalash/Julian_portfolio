@@ -17,7 +17,7 @@ Data was collected and cleaned then they was input into excel spreadsheets in cs
 RESULTS : <br/>
 PROGRAMMING LANGUAGE TRENDS: <br/>
 Current Year: <br/>
-![image](https://github.com/Julianshalash/Julian_portfolio/blob/main/Screenshot_1.jpg) <br/>
+![image](https://github.com/Julianshalash/Julian_portfolio/blob/main/images/Screenshot_1.jpg) <br/>
 Next Year : <br/>
 ![image](https://user-images.githubusercontent.com/114916959/221765972-945788b0-2593-466b-b300-9c965e3ec67a.png) <br/>
 PROGRAMMING LANGUAGE TRENDS - FINDINGS & IMPLICATIONS:<br/>
