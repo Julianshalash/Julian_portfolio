@@ -1,5 +1,5 @@
 # Julian_portfolio
-[Capstone project]<br/>(https://julianshalash.github.io/Julian_portfolio/)
+[Capstone project](https://julianshalash.github.io/Julian_portfolio/)
 EXECUTIVE SUMMARY:
 The company name is AS
 The company job is about IT solution 
