@@ -9,7 +9,7 @@ Its experience is about 8 years in IT solution <br/>
 INTRODUCTION : <br/>
 Understand the factors that effect on programming languages usage <br/>
 What are the most programming languages used this year and next year <br/>
-What are the most Database ﻿Worked With  this year and next year <br/>
+What are the most Database Worked With  this year and next year <br/>
 What are the most Platform Worked With  this year and next year <br/>
 What are the most Web Frame Worked With  this year and next year <br/>
 METHODOLOGY : <br/>
@@ -17,9 +17,9 @@ Data was collected and cleaned then they was input into excel spreadsheets in cs
 RESULTS : <br/>
 PROGRAMMING LANGUAGE TRENDS: <br/>
 Current Year: <br/>
-![image](https://github.com/Julianshalash/Julian_portfolio/blob/main/images/Screenshot_1.jpg) <br/>
+![](https://github.com/Julianshalash/Julian_portfolio/blob/main/images/Screenshot_1.jpg) <br/>
 Next Year : <br/>
-![image](https://user-images.githubusercontent.com/114916959/221765972-945788b0-2593-466b-b300-9c965e3ec67a.png) <br/>
+![](https://github.com/Julianshalash/Julian_portfolio/blob/main/images/Screenshot_2.jpg) <br/>
 PROGRAMMING LANGUAGE TRENDS - FINDINGS & IMPLICATIONS:<br/>
 Findings : <br/>
 The  5 Top languages  this year in order: <br/>
