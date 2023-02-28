@@ -17,9 +17,9 @@ Data was collected and cleaned then they was input into excel spreadsheets in cs
 RESULTS : <br/>
 PROGRAMMING LANGUAGE TRENDS: <br/>
 Current Year: <br/>
-![](https://github.com/Julianshalash/Julian_portfolio/blob/main/images/Screenshot_1.jpg) <br/>
+![](/images/Screenshot_1.jpg) <br/>
 Next Year : <br/>
-![](https://github.com/Julianshalash/Julian_portfolio/blob/main/images/Screenshot_2.jpg) <br/>
+![](/images/Screenshot_2.jpg) <br/>
 PROGRAMMING LANGUAGE TRENDS - FINDINGS & IMPLICATIONS:<br/>
 Findings : <br/>
 The  5 Top languages  this year in order: <br/>
