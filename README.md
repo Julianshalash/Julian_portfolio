@@ -37,9 +37,9 @@ Bash/Shell/PowerShell will not remain one of the top 5 language next year <br/>
 Python will grow up to the third popular language next year <br/>
 DATABASE TRENDS: <br/>
 Current Year: <br/>
-![image](https://user-images.githubusercontent.com/114916959/221766503-2b39b2f9-f6d2-4620-9fba-5c889244d76b.png) <br/>
+![](/images/Screenshot_3.jpg) <br/>
 Next Year : <br/>
-![image](https://user-images.githubusercontent.com/114916959/221766565-b03a13cf-40be-493d-a881-ecb50c97708c.png) <br/>
+![](/images/Screenshot_4.jpg) <br/>
 DATABASE TRENDS - FINDINGS & IMPLICATIONS: <br/>
 Findings : <br/>
 The  5 Top Databases  this year in order: MySQL,Microsoft SQL Server,PostgreSQL,SQLLite,MonogeDB <br/>
@@ -57,11 +57,11 @@ Redis and Elasticsearch will grow up to the top 5 Databases <br/>
 DASHBOARD : <br/>
 https://dataplatform.cloud.ibm.com/dashboards/83f9cc11-5533-474f-bb65-1faa87d26bc1/view/5719f2153fac699152d1e6e407cc2f507831710bb4bbd00384d17b495c687597a8684791c8274e0b8b14076afaef4650cc <br/>
 DASHBOARD TAB 1 : <br/>
-![image](https://user-images.githubusercontent.com/114916959/221767166-55f4d411-1b9a-4cd2-8148-5d6dd7eafd02.png) <br/>
+![](/images/Screenshot_5.jpg) <br/>
 DASHBOARD TAB 2 : <br/>
-![image](https://user-images.githubusercontent.com/114916959/221767252-403cfa02-d0dd-4060-a318-6799c015fb7c.png) <br/>
+![](/images/Screenshot_6.jpg) <br/>
 DASHBOARD TAB 3 : <br/>
-![image](https://user-images.githubusercontent.com/114916959/221767320-d9cf2a95-d03d-4c32-8772-656ec8465fac.png) <br/>
+![](/images/Screenshot_7.jpg) <br/>
 DISCUSSION : <br/>
 We saw in this study there is a trend to the big data  in the future so will be accreditation  on the advanced programming language so we will see the difference in usage and results in the future <br/>
 OVERALL FINDINGS & IMPLICATIONS : <br/>
@@ -77,7 +77,7 @@ The top programming language change by demand <br/>
 The top Database change by demand <br/>
 APPENDIX: <br/>
 JOB POSTINGS : <br/>
-![image](https://user-images.githubusercontent.com/114916959/221767952-1428bf82-65ff-4205-a472-b96a413c4662.png) 
+![](/images/Screenshot_8.jpg) 
 
 
 
