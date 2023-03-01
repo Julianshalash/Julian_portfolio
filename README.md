@@ -77,8 +77,8 @@ The top programming language change by demand <br/>
 The top Database change by demand <br/>
 APPENDIX: <br/>
 JOB POSTINGS : <br/>
-![](/images/Screenshot_8.jpg) 
-
+![](/images/Screenshot_8.jpg) <br/>
+[python code for project] <br/>
 
 
 
