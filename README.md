@@ -55,7 +55,7 @@ MySQL will go down to the third Database and MonogeDB will grow up to the second
 Microsoft SQL Server and SQLLite will not stay among the top 5 <br/>  
 Redis and Elasticsearch will grow up to the top 5 Databases <br/> 
 DASHBOARD : <br/>
-https://dataplatform.cloud.ibm.com/dashboards/83f9cc11-5533-474f-bb65-1faa87d26bc1/view/5719f2153fac699152d1e6e407cc2f507831710bb4bbd00384d17b495c687597a8684791c8274e0b8b14076afaef4650cc <br/>
+[](https://dataplatform.cloud.ibm.com/dashboards/83f9cc11-5533-474f-bb65-1faa87d26bc1/view/5719f2153fac699152d1e6e407cc2f507831710bb4bbd00384d17b495c687597a8684791c8274e0b8b14076afaef4650cc) <br/>
 DASHBOARD TAB 1 : <br/>
 ![](/images/Screenshot_5.jpg) <br/>
 DASHBOARD TAB 2 : <br/>
@@ -80,7 +80,7 @@ JOB POSTINGS : <br/>
 ![](/images/Screenshot_8.jpg) <br/>
 <br/>
 **python code for project** <br/>
-(https://github.com/Julianshalash/Julian_portfolio/blob/main/M1ExploreDataSet-lab%20(1).ipynb)
+[ExploreDataSet](https://github.com/Julianshalash/Julian_portfolio/blob/main/M1ExploreDataSet-lab%20(1).ipynb)
 
 
 
