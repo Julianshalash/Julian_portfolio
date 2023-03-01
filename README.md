@@ -80,9 +80,8 @@ JOB POSTINGS : <br/>
 ![](/images/Screenshot_8.jpg) <br/>
 <br/>
 **python code for project** <br/>
-<br/>
-**A)Survey Dataset Exploration Lab** <br/>
-**1)Load the dataset** <br/>
+https://github.com/Julianshalash/Julian_portfolio/blob/main/M1ExploreDataSet-lab%20(1).ipynb 
+
 
 
 
