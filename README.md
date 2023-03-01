@@ -80,7 +80,7 @@ JOB POSTINGS : <br/>
 ![](/images/Screenshot_8.jpg) <br/>
 <br/>
 **python code for project** <br/>
-[ExploreDataSet](https://github.com/Julianshalash/Julian_portfolio/blob/main/M1ExploreDataSet-lab%20(1).ipynb)
+[ExploreDataSet](https://github.com/Julianshalash/Julian_portfolio/blob/main/capstone%20project/M1ExploreDataSet-lab%20(1).ipynb)
 
 
 
