@@ -78,7 +78,8 @@ The top Database change by demand <br/>
 APPENDIX: <br/>
 JOB POSTINGS : <br/>
 ![](/images/Screenshot_8.jpg) <br/>
-[python code for project] (https://julianshalash.github.io/Julian_portfolio/)<br/>
+<br/>
+**python code for project** <br/>
 
 
 
