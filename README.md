@@ -82,7 +82,8 @@ JOB POSTINGS : <br/>
 **python code for project** <br/>
 [Web scraping](https://github.com/Julianshalash/Julian_portfolio/blob/main/capstone%20project/Web-Scraping-Lab%20(1).ipynb) <br/>
 [ExploreDataSet](https://github.com/Julianshalash/Julian_portfolio/blob/main/capstone%20project/M1ExploreDataSet-lab%20(1).ipynb) <br/>
-[Dara Wrangling](https://github.com/Julianshalash/Julian_portfolio/blob/main/capstone%20project/M2DataWrangling-lab%20(3).ipynb)
+[Dara Wrangling](https://github.com/Julianshalash/Julian_portfolio/blob/main/capstone%20project/M2DataWrangling-lab%20(3).ipynb) <br/>
+[Exploratory DataAnalysis] (https://github.com/Julianshalash/Julian_portfolio/blob/main/capstone%20project/M3ExploratoryDataAnalysis-lab%20(2).ipynb)
 
 
 
