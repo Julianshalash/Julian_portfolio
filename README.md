@@ -90,6 +90,10 @@ JOB POSTINGS : <br/>
 
 
 
+[#project2 Bank tech](https://julianshalash.github.io/Julian_portfolio/)<br/>
+
+[project file](https://github.com/Julianshalash/Julian_portfolio/blob/main/Bank_tech.ipynb)
+
 
 
 
