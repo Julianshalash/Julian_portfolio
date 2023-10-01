@@ -100,7 +100,7 @@ JOB POSTINGS : <br/>
 EXECUTIVE SUMMARY:<br/>
 Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team<br/>. Sprocket Central Pty Ltd is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. The project is mainly divided into three tasks<br/>.
 
-[project files](https://github.com/Julianshalash/Julian_portfolio/blob/main/a “/Completion_certificate.pdf)
+[project files](https://github.com/Julianshalash/Julian_portfolio/blob/main/a/Completion_certificate.pdf)
 
 
 
