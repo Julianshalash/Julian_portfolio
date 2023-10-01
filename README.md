@@ -92,7 +92,7 @@ JOB POSTINGS : <br/>
 
 [#project2 Bank tech](https://julianshalash.github.io/Julian_portfolio/)<br/>
 
-[project file](https://github.com/Julianshalash/Julian_portfolio/blob/main/Bank_tech.ipynb)
+[project files](https://github.com/Julianshalash/Julian_portfolio/blob/main/Bank_tech.ipynb)
 
 
 
@@ -100,7 +100,7 @@ JOB POSTINGS : <br/>
 EXECUTIVE SUMMARY:<br/>
 Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team<br/>. Sprocket Central Pty Ltd is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. The project is mainly divided into three tasks<br/>.
 
-[project folder](https://github.com/Julianshalash/Julian_portfolio/blob/main/a “)
+[project files](https://github.com/Julianshalash/Julian_portfolio/blob/main/a “/Completion_certificate.pdf)
 
 
 
