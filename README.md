@@ -100,11 +100,31 @@ JOB POSTINGS : <br/>
 EXECUTIVE SUMMARY:<br/>
 Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team<br/>. Sprocket Central Pty Ltd is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. The project is mainly divided into three tasks<br/>.
 
-[project files](https://github.com/Julianshalash/Julian_portfolio/blob/main/Completion_certificate.pdf)
+Task 1: Data Quality Assessment <br/>
+
+Assessment of data quality and completeness in preparation for analysis <br/>
+The client provided KPMG with 3 datasets: <br/>
+
+Customer Demographic <br/>
+Customer Addresses <br/>
+Transactions data in the past 3 months <br/>
 
 
+Task 2: Data Insights <br/>
+Targeting high value customers based on customer demographics and attributes. <br/>
+
+Task 3: Data Insights and Presentation <br/>
+Using visualisations to present insights <br/>
+Developed a dashboard using Tableau that displays the data summary and results of the analysis. Some of the focussed business context when presenting findings were: <br/>
+
+What are the trends in the underlying data? <br/>
+Which customer segment has the highest customer value? <br/>
+What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy? <br/>
 
 
+DASHBOARD  : <br/>
+
+![](/Task3.png) <br/>
 
 
 
